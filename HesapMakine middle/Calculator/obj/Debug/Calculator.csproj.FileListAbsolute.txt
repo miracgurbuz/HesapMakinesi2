@@ -1,0 +1,12 @@
+C:\Users\sorhan\Downloads\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\sorhan\Downloads\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\sorhan\Downloads\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\sorhan\Downloads\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\sorhan\Downloads\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\sorhan\Downloads\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\sorhan\Downloads\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\sorhan\Downloads\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\sorhan\Downloads\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\mirac\OneDrive\Masaüstü\HesapMakineMiddle\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\mirac\OneDrive\Masaüstü\HesapMakineMiddle\Calculator\obj\Debug\Calculator.exe
+C:\Users\mirac\OneDrive\Masaüstü\HesapMakineMiddle\Calculator\obj\Debug\Calculator.pdb
